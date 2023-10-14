@@ -1,0 +1,28 @@
+{
+  "short_name": "Bulb On/Off Project",
+  "name": "Bulb On/Off Project By ~ Pritam",
+  "icons": [
+    {
+      "src": "./style/android-icon-36x36.png",
+      "sizes": "24x24 16x16 32x32 36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "./style/android-icon-96x96.png",
+      "sizes": "48x48 64x64 72x72 96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "./style/android-icon-144x144.png",
+      "sizes": "144x144 192x192 512x512",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0c7c6f",
+  "background_color": "#0c7c6f"
+}
